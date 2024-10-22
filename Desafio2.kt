@@ -1,3 +1,7 @@
+/*
+Bruno Wilson Moura Do Nascimento
+*/
+
 class BankAccount(accountHolder:String){
     private var balance:Double = 0.0 // (privada), do tipo Double, representando o saldo da conta.
 
